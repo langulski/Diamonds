@@ -1,5 +1,5 @@
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.pinimg.com/originals/fc/44/58/fc445856e06f4f7c767efc090fd12f86.png" alt="DIAMOND" width="25%" border="0"></a><br /></p>
-<h1 align="center">📈 Project 04 | Linear Regression </h1>
+<h1 align="center">📈 Diamond Price Prediction| Linear Regression </h1>
 
 ## Project Status
 :heavy_check_mark: Complete
