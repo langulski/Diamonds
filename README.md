@@ -44,6 +44,11 @@ After a lot of attempts, we obtained:
 |  -----  | -------|
 | 95.8%   |    660  |
      
+     
+And comparing to Rick's dataset we got:
+<br>
+<img src="https://user-images.githubusercontent.com/85833899/139990704-a1876369-1ef7-4be2-938e-6647a1e98fc4.png" alt="pawn" width="50%" border="0">
+
 ## Learning Process
 
 ### Theory Applied
